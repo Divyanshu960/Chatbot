@@ -1,3 +1,3 @@
-#template file
+#Template file
 
-template folder
+This file contains the html file for the chatbot
